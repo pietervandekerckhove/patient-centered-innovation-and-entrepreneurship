@@ -1,4 +1,4 @@
-# Patient-Centered Innovation Hub
+# Creating Value in Care Hub
 
 ## About Us
 - **Mission Statement**: To foster a community around patient-centered entrepreneurship, bringing together partners from industry, academia, and government to drive innovation in healthcare.
