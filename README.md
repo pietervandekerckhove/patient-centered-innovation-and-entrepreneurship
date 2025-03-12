@@ -48,7 +48,7 @@ Van Elten, H. J., Howard, S. W., De Loo, I., & Schaepkens, F. (2023). Reflection
     https://pmc.ncbi.nlm.nih.gov/articles/PMC10461846/
 
 - **Events**: Information on upcoming conferences, workshops, and webinars.
-** Babson Healthcare Entrepreneurship Summit 4th June 2025 https://www.babson.edu/healthcare-entrepreneurship-center/
+  - **Babson Healthcare Entrepreneurship Summit** 4th June 2025 https://www.babson.edu/healthcare-entrepreneurship-center/
   - **EURAM Conference**: We will be speaking at the EURAM conference in the symposium S06_02 – A 21st Century Healthcare Renaissance: Practitioner-Relevant, Value-Driven Innovation and Care Process Transformation https://conferences.euram.academy/2025conference/symposia/#toggle-id-6
 
 - **News**: Latest updates and news in the field of patient-centered innovation and entrepreneurship.
