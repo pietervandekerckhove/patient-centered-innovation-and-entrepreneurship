@@ -5,6 +5,7 @@
 - **Key Initiators**:
   - **Dr. Pieter Vandekerckhove**
     - ![Dr. Pieter Vandekerckhove](https://www.tudelft.nl/en/staff/p.b.m.vandekerckhove/)
+    - ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
     - **Bio**: Dr. Pieter Vandekerckhove is an Assistant Professor of Healthcare Entrepreneurship at the Delft Centre of Entrepreneurship. He obtained his PhD at Erasmus University Rotterdam and focuses on collaborative approaches involving co-design methodology to build impactful health ventures. His mission is to improve cancer care from a patient perspective(https://scholar.google.com/citations?user=cpiz5HcAAAAJ&hl=en).
   - **Prof. Bettina Maisch**
     - ![Prof. Bettina Maisch](https://www.sce.de/en/team.html)
