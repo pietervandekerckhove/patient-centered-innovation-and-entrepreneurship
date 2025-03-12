@@ -28,8 +28,11 @@
 ## Initiatives
 - **Interactive Virtual Events**: We are organizing a series of interactive virtual events to engage our community and share insights on patient-centered innovation.
 
-- **Work Packages**:
-  - **Entrepreneurial Behaviors**: Programs and resources for fostering entrepreneurial mindsets.
+- **Strategic focus**:
+
+- Overall: **Entrepreneurial Behaviors**: Programs and resources for fostering entrepreneurial mindsets across organizations with different levels of innovation maturity
+
+
   - **Pedagogy and Impact Management**: Educational resources and impact assessment tools.
   - **Healthcare Management Innovation Strategies**: Best practices and case studies.
   - **Operational Capacity**: Tools and strategies for improving operational efficiency.
