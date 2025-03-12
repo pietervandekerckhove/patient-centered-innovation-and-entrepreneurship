@@ -22,7 +22,7 @@
   - Academic Institutions
   - Government Agencies
 - **Join Us**: Information on how to become a member and contribute to our community.
-- **LinkedIn Community**: Join our LinkedIn Group
+- **LinkedIn Community**: Join our LinkedIn Group [https://www.linkedin.com/feed/update/urn:li:activity:7302440857641648128/](https://www.linkedin.com/groups/13119326/?highlightedUpdateUrn=urn%3Ali%3AgroupPost%3A13119326-7302440856643391488&q=highlightedFeedForGroups)
 
 ## Initiatives
 - **Interactive Virtual Events**: We are organizing a series of interactive virtual events to engage our community and share insights on patient-centered innovation.
