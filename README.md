@@ -1,7 +1,7 @@
 # Creating Value in Care Hub
 
 ## About Us
-- **Mission Statement**: To foster a community around patient-centered entrepreneurship, bringing together partners from industry, academia, and government to drive innovation in healthcare.
+- **Mission Statement**: Empowering changemakers to drive systemic innovation for global, affordable healthcare by fostering a vibrant community of patient-centered entrepreneurship — uniting industry, academia, and government for a healthier future.
 - **Key Initiators**:
   - **Dr. Pieter Vandekerckhove**
     - ![Dr. Pieter Vandekerckhove](https://www.tudelft.nl/en/staff/p.b.m.vandekerckhove/)
