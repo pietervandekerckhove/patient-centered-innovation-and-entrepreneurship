@@ -1,7 +1,7 @@
 # Creating Value in Care Hub / Health Impact Alliance
 
 ## About Us
-- **Mission Statement**: Empowering changemakers to drive systemic innovation for global, affordable healthcare by fostering a vibrant community of patient-centered entrepreneurship — uniting industry, academia, and government for a healthier future.
+- **Mission Statement**: Empowering changemakers to drive systemic innovation aimed at affordable patient-centered healthcare by fostering a vibrant entrepreneurial community — uniting industry, academia, and government for a healthier future.
 - **Key Initiators**:
   - **Dr. Pieter Vandekerckhove**
     - ![Dr. Pieter Vandekerckhove](https://www.tudelft.nl/en/staff/p.b.m.vandekerckhove/)
