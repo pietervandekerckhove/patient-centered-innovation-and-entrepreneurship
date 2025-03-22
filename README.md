@@ -11,13 +11,14 @@ We believe patient centered care wisdom is scattered and needs to be re-integrat
 
 **Key Initiators**:
 **Dr. Pieter Vandekerckhove**
+
 Pieter is Assistant Professor of Healthcare Entrepreneurship at the Delft Centre of Entrepreneurship. He obtained his PhD at Erasmus University Rotterdam and focuses on collaborative approaches involving co-design methodology to build impactful health ventures. His mission is to improve care for young adults with cancer.
 
 ![Image](https://github.com/user-attachments/assets/ea0e01fc-7ffe-42c1-8717-fc82188170ea)
 
 **Prof. Bettina Maisch**
-    - ![Prof. Bettina Maisch](https://www.sce.de/en/team.html)
-**Bio**: Prof. Bettina Maisch is a Professor for Entrepreneurship at the University of Applied Sciences Munich and Head of Digital Entrepreneurship Education at the Strascheg Center for Entrepreneurship. She has extensive experience in design thinking, entrepreneurship education, and health entrepreneurship
+
+Prof. Bettina Maisch is a Professor for Entrepreneurship at the University of Applied Sciences Munich and Head of Digital Entrepreneurship Education at the Strascheg Center for Entrepreneurship. She has extensive experience in design thinking, entrepreneurship education, and health entrepreneurship
 
 ![Image](https://github.com/user-attachments/assets/093b3481-9e3a-4637-8763-626fd94ce760)
 
