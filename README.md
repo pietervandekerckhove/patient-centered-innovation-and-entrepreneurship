@@ -1,6 +1,6 @@
 # **VITAL**—*Value Integrations through Teamwork to Advance patient Lives*
 
-```{figure} ../figures/Copilot3.jpeg
+```{figure} ../figures/Copilotlogo.jpeg
 ```
 
 
