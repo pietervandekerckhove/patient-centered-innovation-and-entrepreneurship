@@ -52,7 +52,7 @@ Prof. Bettina Maisch is a Professor for Entrepreneurship at the University of Ap
 
 - **Success Stories**: We are developing an open interactive education book about healthcare entrepreneurship https://www.tudelft.nl/en/open-science/oesf-projects-2024/healthcare-entrepreneurship-from-tu-delft-to-the-world
 
-![Image](https://github.com/pietervandekerckhove/patient-centered-innovation-and-entrepreneurship/issues/1#issue-2940761414)
+![Image](https://github.com/user-attachments/assets/dfcabfd7-8ea6-46ec-a1a6-748a02a4db4e)
 
 
 ## Resources
