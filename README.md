@@ -1,14 +1,11 @@
-# **VITAL**—*Value Integrations through Teamwork to Advance patient Lives
+# IMPACT-Care Alliance – Innovation & Entrepreneurial-driven Patient centered Alliance for Care Transformation
 
 ![Image](https://github.com/user-attachments/assets/124ea39a-6faf-4c57-9f62-487abfe23f2a)
-
-
-Creating Value in Care Hub / Health Impact Alliance
 
 ## About Us
 - **Mission Statement**: Empowering changemakers to drive systemic innovation aimed at affordable patient-centered healthcare by fostering a vibrant entrepreneurial community — uniting industry, academia, and government for a healthier future.
 
-The acronym **VITAL**—*Value Integrations through Teamwork to Advance patient Lives*—encapsulates the mission of fostering collaboration among diverse stakeholders to innovate and enhance patient-centered care pathways. By bringing together care professionals across different organizations, integrating product-service-technology innovations, and addressing fragmented care systems, VITAL highlights the power of teamwork and shared knowledge. This collaborative approach ensures that advancements are seamlessly embedded into care pathways, ultimately delivering greater value and improved outcomes for patients.
+We believe patient centered care wisdom is scattered and needs to be re-integrated through collaboration among diverse stakeholders to innovate and enhance patient-centered care pathways. By bringing together care professionals across different organizations, integrating product-service-technology innovations, and addressing fragmented care systems, VITAL highlights the power of teamwork and shared knowledge. This collaborative approach ensures that advancements are seamlessly embedded into care pathways, ultimately delivering greater value and improved outcomes for patients.
 
 
 
