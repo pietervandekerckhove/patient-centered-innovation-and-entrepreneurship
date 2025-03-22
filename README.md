@@ -1,7 +1,6 @@
-# **VITAL**—*Value Integrations through Teamwork to Advance patient Lives*
+# **VITAL**—*Value Integrations through Teamwork to Advance patient Lives
 
-```{figure} Copilotlogo.jpeg
-```
+![Image](https://github.com/user-attachments/assets/124ea39a-6faf-4c57-9f62-487abfe23f2a)
 
 
 Creating Value in Care Hub / Health Impact Alliance
