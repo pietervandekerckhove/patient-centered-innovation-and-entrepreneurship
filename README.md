@@ -13,16 +13,13 @@ We believe patient centered care wisdom is scattered and needs to be re-integrat
   - **Dr. Pieter Vandekerckhove**
     - ![Dr. Pieter Vandekerckhove](https://www.tudelft.nl/en/staff/p.b.m.vandekerckhove/)
     - ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-    - **Bio**: Dr. Pieter Vandekerckhove is an Assistant Professor of Healthcare Entrepreneurship at the Delft Centre of Entrepreneurship. He obtained his PhD at Erasmus University Rotterdam and focuses on collaborative approaches involving co-design methodology to build impactful health ventures. His mission is to improve cancer care from a patient perspective(https://scholar.google.com/citations?user=cpiz5HcAAAAJ&hl=en).
-   
-![Image](https://github.com/user-attachments/assets/dfcabfd7-8ea6-46ec-a1a6-748a02a4db4e)
+    - **Bio**: Dr. Pieter Vandekerckhove is an Assistant Professor of Healthcare Entrepreneurship at the Delft Centre of Entrepreneurship. He obtained his PhD at Erasmus University Rotterdam and focuses on collaborative approaches involving co-design methodology to build impactful health ventures. His mission is to improve care for young adults with cancer.
 
   - **Prof. Bettina Maisch**
     - ![Prof. Bettina Maisch](https://www.sce.de/en/team.html)
     - **Bio**: Prof. Bettina Maisch is a Professor for Entrepreneurship at the University of Applied Sciences Munich and Head of Digital Entrepreneurship Education at the Strascheg Center for Entrepreneurship. She has extensive experience in design thinking, entrepreneurship education, and health entrepreneurship
 
-bettina-maisch.1024x1024-646599340.jpg
-
+![Image](https://github.com/user-attachments/assets/093b3481-9e3a-4637-8763-626fd94ce760)
 
   - **Dr. Steven Howard**
     - ! [Dr. Steven Howard] (https://www.dpo.uab.edu/shp/hsa/people/primary-faculty/steven-howard)
