@@ -1,4 +1,5 @@
-# IMPACT-Care Alliance – Innovation & Entrepreneurial-driven Patient centered Alliance for Care Transformation
+# IMPACT-Care Alliance:
+Innovation & Entrepreneurship-driven Patient centered Alliance for Care Transformation
 
 ![Image](https://github.com/user-attachments/assets/124ea39a-6faf-4c57-9f62-487abfe23f2a)
 
@@ -22,9 +23,11 @@ Prof. Bettina Maisch is a Professor for Entrepreneurship at the University of Ap
 
 ![Image](https://github.com/user-attachments/assets/093b3481-9e3a-4637-8763-626fd94ce760)
 
-  - **Dr. Steven Howard**
-    - ! [Dr. Steven Howard] (https://www.dpo.uab.edu/shp/hsa/people/primary-faculty/steven-howard)
-    - **Bio**: Dr. Steven Howard is an Associate Professor and Director of the M.S. in Healthcare Administration (Executive) program at the University of Alabama at Birmingham. He holds a PhD in Public Health and an MBA, and his research focuses on healthcare management and administration, aiming to improve healthcare delivery and operational efficiency 
+**Dr. Steven Howard**
+Dr. Steven Howard is an Associate Professor and Director of the M.S. in Healthcare Administration (Executive) program at the University of Alabama at Birmingham. He holds a PhD in Public Health and an MBA, and his research focuses on healthcare management and administration, aiming to improve healthcare delivery and operational efficiency 
+
+![Image](https://github.com/user-attachments/assets/d2946e7a-2946-486f-86d5-cb513b4bb1fa)
+
 
 ## Strategic Positioning
 - **Alignment with EU's strategic goals for sustainable competitiveness, innovation, and economic security and the United Nations Sustainable Development goals. By focusing on pedagogy, healthcare management innovation, operational capacity, and new ventures, we aim to promote entrepreneurial behaviors, enhance educational resources, innovate management strategies, improve operational efficiency, and support the launch of new healthcare ventures.
