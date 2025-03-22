@@ -10,10 +10,8 @@ We believe patient centered care wisdom is scattered and needs to be re-integrat
 
 
 - **Key Initiators**:
-  - **Dr. Pieter Vandekerckhove**
-    - ![Dr. Pieter Vandekerckhove](https://www.tudelft.nl/en/staff/p.b.m.vandekerckhove/)
-    - ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-    - **Bio**: Dr. Pieter Vandekerckhove is an Assistant Professor of Healthcare Entrepreneurship at the Delft Centre of Entrepreneurship. He obtained his PhD at Erasmus University Rotterdam and focuses on collaborative approaches involving co-design methodology to build impactful health ventures. His mission is to improve care for young adults with cancer.
+**Dr. Pieter Vandekerckhove**
+Pieter is Assistant Professor of Healthcare Entrepreneurship at the Delft Centre of Entrepreneurship. He obtained his PhD at Erasmus University Rotterdam and focuses on collaborative approaches involving co-design methodology to build impactful health ventures. His mission is to improve care for young adults with cancer.
 
   - **Prof. Bettina Maisch**
     - ![Prof. Bettina Maisch](https://www.sce.de/en/team.html)
