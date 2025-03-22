@@ -3,7 +3,7 @@
 ![Image](https://github.com/user-attachments/assets/124ea39a-6faf-4c57-9f62-487abfe23f2a)
 
 ## About Us
-- **Mission Statement**: Empowering changemakers to drive systemic innovation aimed at affordable patient-centered healthcare by fostering a vibrant entrepreneurial community — uniting industry, academia, and government for a healthier future.
+**Mission Statement**: Empowering changemakers to drive systemic innovation aimed at affordable patient-centered healthcare by fostering a vibrant entrepreneurial community — uniting industry, academia, and government for a healthier future.
 
 We believe patient centered care wisdom is scattered and needs to be re-integrated through collaboration among diverse stakeholders to innovate and enhance patient-centered care pathways. By bringing together care professionals across different organizations, integrating product-service-technology innovations, and addressing fragmented care systems, VITAL highlights the power of teamwork and shared knowledge. This collaborative approach ensures that advancements are seamlessly embedded into care pathways, ultimately delivering greater value and improved outcomes for patients.
 
