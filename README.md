@@ -1,6 +1,6 @@
 # **VITAL**—*Value Integrations through Teamwork to Advance patient Lives*
 
-```{figure} ../figures/Copilotlogo.jpeg
+```{figure} Copilotlogo.jpeg
 ```
 
 
@@ -18,6 +18,9 @@ The acronym **VITAL**—*Value Integrations through Teamwork to Advance patient 
     - ![Dr. Pieter Vandekerckhove](https://www.tudelft.nl/en/staff/p.b.m.vandekerckhove/)
     - ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
     - **Bio**: Dr. Pieter Vandekerckhove is an Assistant Professor of Healthcare Entrepreneurship at the Delft Centre of Entrepreneurship. He obtained his PhD at Erasmus University Rotterdam and focuses on collaborative approaches involving co-design methodology to build impactful health ventures. His mission is to improve cancer care from a patient perspective(https://scholar.google.com/citations?user=cpiz5HcAAAAJ&hl=en).
+   
+![Image](https://github.com/user-attachments/assets/dfcabfd7-8ea6-46ec-a1a6-748a02a4db4e)
+
   - **Prof. Bettina Maisch**
     - ![Prof. Bettina Maisch](https://www.sce.de/en/team.html)
     - **Bio**: Prof. Bettina Maisch is a Professor for Entrepreneurship at the University of Applied Sciences Munich and Head of Digital Entrepreneurship Education at the Strascheg Center for Entrepreneurship. She has extensive experience in design thinking, entrepreneurship education, and health entrepreneurship
