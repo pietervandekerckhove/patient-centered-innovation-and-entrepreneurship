@@ -24,6 +24,10 @@ The acronym **VITAL**—*Value Integrations through Teamwork to Advance patient 
   - **Prof. Bettina Maisch**
     - ![Prof. Bettina Maisch](https://www.sce.de/en/team.html)
     - **Bio**: Prof. Bettina Maisch is a Professor for Entrepreneurship at the University of Applied Sciences Munich and Head of Digital Entrepreneurship Education at the Strascheg Center for Entrepreneurship. She has extensive experience in design thinking, entrepreneurship education, and health entrepreneurship
+
+bettina-maisch.1024x1024-646599340.jpg
+
+
   - **Dr. Steven Howard**
     - ! [Dr. Steven Howard] (https://www.dpo.uab.edu/shp/hsa/people/primary-faculty/steven-howard)
     - **Bio**: Dr. Steven Howard is an Associate Professor and Director of the M.S. in Healthcare Administration (Executive) program at the University of Alabama at Birmingham. He holds a PhD in Public Health and an MBA, and his research focuses on healthcare management and administration, aiming to improve healthcare delivery and operational efficiency 
