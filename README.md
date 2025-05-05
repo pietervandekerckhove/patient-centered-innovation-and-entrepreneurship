@@ -58,17 +58,6 @@ Dr. Steven Howard is an Associate Professor and Director of the M.S. in Healthca
 ![Image](https://github.com/user-attachments/assets/dfcabfd7-8ea6-46ec-a1a6-748a02a4db4e)
 
 
-## Resources
-- **Publications**: Access to key publications from our initiators:
-  - **Dr. Pieter Vandekerckhove**:
-    - "The Self Hologram: Awakening a Philosophy of Life"[1](https://scholar.google.com/citations?user=cpiz5HcAAAAJ&hl=en)
-  - **Prof. Bettina Maisch**:
-    - "Digitalization Needs a Cultural Change"[2](https://www.zotero.org/maisch)
-    - "Designing the Future: Strategy, Design, and the 4th Industrial Revolution"[2](https://www.zotero.org/maisch)
-  - **Dr. Steven Howard**:
-Van Elten, H. J., Howard, S. W., De Loo, I., & Schaepkens, F. (2023). Reflections on managing the performance of value-based healthcare: a scoping review. International Journal of Health Policy and Management, 12, 7366.
-    https://pmc.ncbi.nlm.nih.gov/articles/PMC10461846/
-
 - **Events**: Information on upcoming conferences, workshops, and webinars.
   - **Babson Healthcare Entrepreneurship Summit** 4th June 2025 https://www.babson.edu/healthcare-entrepreneurship-center/
   - **EURAM Conference**: We will be speaking at the EURAM conference in the symposium S06_02 – A 21st Century Healthcare Renaissance: Practitioner-Relevant, Value-Driven Innovation and Care Process Transformation https://conferences.euram.academy/2025conference/symposia/#toggle-id-6
@@ -76,5 +65,4 @@ Van Elten, H. J., Howard, S. W., De Loo, I., & Schaepkens, F. (2023). Reflection
 - **News**: Latest updates and news in the field of patient-centered innovation and entrepreneurship.
 
 ## Contact Us
-- **Get in Touch**: Contact form and email addresses for inquiries.
-- **Location**: Office address and map.
+- **Get in Touch**: dr. Pieter Vandekerckhove p.b.m.vandekerckhove@tudelft.nl
